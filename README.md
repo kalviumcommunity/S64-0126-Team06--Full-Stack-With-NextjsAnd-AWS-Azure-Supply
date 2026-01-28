@@ -4,13 +4,13 @@
 ### Task List ###
 This task list is based on the problem statement and will be updated regularly by contributors. Check off completed tasks and add new ones as needed.
 
-- [ ] **Rohan Singh**
+- [ ] **Rashi Rawal**
   - 
 
 - [ ] **Divyanshu Peswani**
   - 
 
-- [ ] **Tejas Singh**
+- [React installed] **Tejas Singh**
   - 
 
 
